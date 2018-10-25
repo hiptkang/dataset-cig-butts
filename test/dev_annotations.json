@@ -1,0 +1,20 @@
+{
+"info": {"description": "ImmersiveLimit Cigarette Butt Dataset", "url": "http://www.immersivelimit.com", "version": "0.1", "year": 2018, "contributor": "Adam Kelly", "date_created": "2018/07/27"}, 
+
+"licenses": [{"url": "http://www.immersivelimit.com/noncommercial-educational-license-agreement", "id": 0, "name": "ImmersiveLimit.com Non-Commercial, Educational License Agreement"}], 
+
+"images": [
+    {"license": 0, "file_name": "0000.jpg", "width": 512, "height": 512, "id": 0}, 
+    {"license": 0, "file_name": "0001.jpg", "width": 512, "height": 512, "id": 1}, 
+    {"license": 0, "file_name": "0002.jpg", "width": 512, "height": 512, "id": 2}, 
+    {"license": 0, "file_name": "0003.jpg", "width": 512, "height": 512, "id": 3}, 
+    {"license": 0, "file_name": "0004.jpg", "width": 512, "height": 512, "id": 4}, 
+    {"license": 0, "file_name": "0005.jpg", "width": 512, "height": 512, "id": 5}, 
+    {"license": 0, "file_name": "0006.jpg", "width": 512, "height": 512, "id": 6}, 
+    {"license": 0, "file_name": "0007.jpg", "width": 512, "height": 512, "id": 7}, 
+    {"license": 0, "file_name": "0008.jpg", "width": 512, "height": 512, "id": 8}, 
+    {"license": 0, "file_name": "0009.jpg", "width": 512, "height": 512, "id": 9}
+], 
+
+
+"categories": [{"supercategory": "litter", "id": 1, "name": "cig_butt"}]}
